@@ -1,6 +1,7 @@
 # Fap2
 This is a failed project. I dont have the patience to write the hud script all over again
 
+GNU General Public License v3.0 is in place
 
 FAP2 eRP - Coming soon!
 
