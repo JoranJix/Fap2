@@ -18,7 +18,7 @@
 //                                                  
 // NOT TO BE DISTRIBUTED AS FULL PERMISSION VERSION!
 
-string url = "http://www.mond-keks.de/fap2/data2.php";//?api=undress&cmd=register&data=test2";
+string url = "ururl/fap2/data2.php";
 string systemname = "FAP2 0.01 A";
 
 key process1;
