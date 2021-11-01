@@ -3,8 +3,6 @@ This is a failed project. I dont have the patience to write the hud script all o
 
 GNU General Public License v3.0 is in place
 
-FAP2 eRP - Coming soon!
-
 FAP2 eRP - Died an awful death. The scripts keep dying no matter what I do
 
 The Readme from inworld
